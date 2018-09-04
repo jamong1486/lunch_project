@@ -17,8 +17,8 @@ Encore
      * Each entry will result in one JavaScript file (e.g. app.js)
      * and one CSS file (e.g. app.css) if you JavaScript imports CSS.
      */
-    .addEntry('app', './app/Resources/assets/js/abc.js')
-    .addStyleEntry('abc', './app/Resources/assets/scss/abc.scss')
+    .addEntry('app', './src/AppBundle/Resources/assets/js/abc.js')
+    .addStyleEntry('common', './src/AppBundle/Resources/assets/scss/common.scss')
     //.addEntry('page1', './assets/js/page1.js')
     //.addEntry('page2', './assets/js/page2.js')
 
