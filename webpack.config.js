@@ -10,7 +10,7 @@ Encore
 
     .createSharedEntry('vendor', [
         'jquery',
-        'bootstrap-sass'
+        'bootstrap'
     ])
 
     /*
@@ -20,9 +20,9 @@ Encore
      * (including one that's included on every page - e.g. "app")
      *
      * Each entry will result in one JavaScript file (e.g. app.js)
-     * and one CSS file (e.g. app.css) if you JavaScript imports CSS.
-     */
+     * and one CSS file (e.g. app.css) if you JavaScript imports    */
     .addEntry('app', './src/AppBundle/Resources/public/assets/js/abc.js')
+
     .addStyleEntry('common', './src/AppBundle/Resources/public/assets/scss/common.scss')
     //.addEntry('page1', './assets/js/page1.js')
     //.addEntry('page2', './assets/js/page2.js')

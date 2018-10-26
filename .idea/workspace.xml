@@ -4,82 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/webpack.config.js" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="899fea21-922a-4135-ad97-6ede76bf93b5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food10.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food10_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food10_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food10_3.MP4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food11.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food11_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food11_2.GIF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food12.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food12_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food12_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food13.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food13_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food15_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food15_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food15_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food16_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food17_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food1_1.MP4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food2_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food3.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food3_.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food3_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food3_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food3_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food4.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food4_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food4_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food4_3.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food4_4.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food4_5.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food5.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food5_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food5_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food6.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food6_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food6_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food6_3.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food7.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food7_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food7_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food7_3.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food7_4.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food8.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food8_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food8_2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food8_3.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food9.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food9_1.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food9_2.GIF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food9_3.MP4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/food9_4.MP4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/common.scss" />
+    <list default="true" id="899fea21-922a-4135-ad97-6ede76bf93b5" name="Default" comment="carousel test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/logs/lunch.loc-error.log" afterPath="$PROJECT_DIR$/logs/lunch.loc-error.log" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/assets/js/abc.js" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/js/abc.js" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/assets/scss/common.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/assets/scss/main.scss" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/js/abc.js" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/js/abc.js" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss" />
       <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig" />
-      <change beforePath="$PROJECT_DIR$/web/build/app.js" afterPath="$PROJECT_DIR$/web/build/app.js" />
       <change beforePath="$PROJECT_DIR$/web/build/common.css" afterPath="$PROJECT_DIR$/web/build/common.css" />
-      <change beforePath="$PROJECT_DIR$/web/build/manifest.json" afterPath="$PROJECT_DIR$/web/build/manifest.json" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,125 +24,45 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.76305485">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/webpack.config.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="714">
-                  <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="206">
-                  <caret line="192" column="0" lean-forward="true" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#12#31#0#Twig" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="abc.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/Resources/assets/js/abc.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="variables.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/variables.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-204">
-                  <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="19" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sub.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/sub.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="mixin.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/mixin.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="946">
-                  <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#242#353#0" expanded="false" />
-                    <element signature="e#368#807#0" expanded="false" />
-                    <element signature="e#834#1807#0" expanded="false" />
-                    <element signature="e#2250#2287#0" expanded="false" />
-                    <element signature="e#2309#2347#0" expanded="false" />
-                    <element signature="e#2558#2797#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="common.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/common.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#128#809#0" expanded="false" />
+                <element signature="e#240#351#0" expanded="false" />
+                <element signature="e#366#805#0" expanded="false" />
+                <element signature="e#819#846#0" expanded="false" />
+                <element signature="e#870#1843#0" expanded="false" />
+                <element signature="e#2029#3213#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/common.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="746">
+              <caret line="55" column="15" lean-forward="false" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -222,10 +73,14 @@
       <find>xs</find>
       <find>search-input</find>
       <find>w-100</find>
+      <find>carouselExampleIndicators</find>
     </findStrings>
     <replaceStrings>
       <replace>JP</replace>
       <replace>md</replace>
+      <replace>carousel</replace>
+      <replace>carouselFodd</replace>
+      <replace>carouselFood</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -246,15 +101,18 @@
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/assets/scss/main.scss" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/assets/scss/sub.scss" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/assets/scss/common.scss" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/mixin.scss" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/common.scss" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/variables.scss" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/header.html.twig" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/mixin.scss" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/app/Resources/assets/js/abc.js" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/js/abc.js" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/variables.scss" />
       </list>
     </option>
   </component>
@@ -311,9 +169,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
-    <option name="width" value="1874" />
+    <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -373,6 +231,21 @@
               <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -385,6 +258,13 @@
               <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
@@ -409,6 +289,26 @@
               <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
@@ -433,6 +333,46 @@
               <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bundles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bundles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bundles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bundles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lunch_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lunch_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bundles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="food" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -442,7 +382,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/work_space_adena_symfony/okcoin-web.trading" />
+    <property name="last_opened_file_path" value="D:/work_space_adena/sticpay-web.main" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -452,8 +392,8 @@
       <recent name="D:\lunch_project\src\AppBundle\Resources\Public" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\lunch_project\src\AppBundle\Resources\Public\assets\img\food" />
       <recent name="D:\lunch_project\src\AppBundle\Resources\Public\assets\img" />
+      <recent name="D:\lunch_project\src\AppBundle\Resources\Public\assets\img\food" />
       <recent name="D:\lunch_project\src\AppBundle\Resources\assets\img" />
       <recent name="D:\lunch_project\src\AppBundle\Resources\views" />
       <recent name="D:\lunch_project\src\AppBundle\Resources\assets\js" />
@@ -492,7 +432,7 @@
       <workItem from="1537433445252" duration="639000" />
       <workItem from="1539316795360" duration="23000" />
       <workItem from="1539316844868" duration="11518000" />
-      <workItem from="1540456973860" duration="20611000" />
+      <workItem from="1540456973860" duration="29597000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1535529844368</created>
@@ -557,14 +497,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536028774313</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="carousel test">
+      <created>1540539209033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540539209033</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66800000" />
+    <option name="totallyTimeSpent" value="75786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -573,7 +520,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15954119" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.49841017" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15545756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -660,31 +607,14 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Test" />
     <MESSAGE value="혜민받아랏" />
-    <option name="LAST_COMMIT_MESSAGE" value="혜민받아랏" />
+    <MESSAGE value="carousel test" />
+    <option name="LAST_COMMIT_MESSAGE" value="carousel test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="32" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#12#31#0#Twig" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/common.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -707,6 +637,7 @@
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#12#31#0#Twig" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -821,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/js/abc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/assets/scss/abc.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -863,14 +787,6 @@
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/lunch-logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss">
@@ -950,15 +866,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/variables.scss">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/img/food/seoul_food4_3.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/sub.scss">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/mixin.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -966,25 +887,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
-          <folding>
-            <element signature="e#242#353#0" expanded="false" />
-            <element signature="e#368#807#0" expanded="false" />
-            <element signature="e#834#1807#0" expanded="false" />
-            <element signature="e#2250#2287#0" expanded="false" />
-            <element signature="e#2309#2347#0" expanded="false" />
-            <element signature="e#2558#2797#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/mixin.scss">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -997,36 +919,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/sub.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="192" column="0" lean-forward="true" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+        <state relative-caret-position="2299">
+          <caret line="246" column="26" lean-forward="true" selection-start-line="246" selection-start-column="26" selection-end-line="246" selection-end-column="26" />
           <folding>
             <element signature="e#12#31#0#Twig" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/js/abc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#128#809#0" expanded="false" />
+            <element signature="e#240#351#0" expanded="false" />
+            <element signature="e#366#805#0" expanded="false" />
+            <element signature="e#819#846#0" expanded="false" />
+            <element signature="e#870#1843#0" expanded="false" />
+            <element signature="e#2029#3213#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1035,6 +973,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/Public/assets/scss/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="55" column="15" lean-forward="false" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
           <folding />
         </state>
       </provider>
