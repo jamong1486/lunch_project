@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap";
+
+@import "/variables.scss";
+@import "/main.scss";
+
+body{ margin: 0; padding: 0;}
+ul,li {list-style: none;}
+
+a:visited,a:focus,a:link,a:hover{text-decoration: none;}
+
+//section{
+//  >.container{
+//    width: 1280px;
+//  }
+//}

@@ -1,4 +1,7 @@
 {
+  "build/vendor.js": "/build/vendor.js",
   "build/common.css": "/build/common.css",
-  "build/app.js": "/build/app.js"
+  "build/app.js": "/build/app.js",
+  "build/manifest.js": "/build/manifest.js",
+  "build/images/main_visual.jpg": "/build/images/main_visual.c6a6f458.jpg"
 }

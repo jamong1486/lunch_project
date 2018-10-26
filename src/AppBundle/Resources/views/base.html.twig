@@ -5,24 +5,25 @@
             <meta charset="UTF-8" />
             <title>{% block title %}lunch Site!{% endblock %}</title>
             {% block stylesheets %}{% endblock %}
+            <meta name="viewport" content="user-scalable=yes, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
             <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+
             <link rel="stylesheet" type="text/css" href="{{ asset('build/common.css') }}" />
+            <script src="{{ asset('build/manifest.js') }}"></script>
+            <script src="{{ asset('build/vendor.js') }}"></script>
             <script rel="" src="{{ asset('build/app.js') }}"></script>
         {% endblock %}
     </head>
     <body>
+
+
         {% block body %}
-
-
-
-
-
-
 
         {% endblock %}
 
         {% block javascripts %}
         {% endblock %}
+
 
     </body>
 </html>
