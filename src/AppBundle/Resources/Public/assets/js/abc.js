@@ -1,8 +1,8 @@
-$(window).ready(function()
-{
+$(window).ready(function() {
     // header 색상 바꾸기
     initScroll();
 
+    menuClose();
 });
 
 // header 스크롤 내렸을때 색상 블랙
@@ -15,5 +15,22 @@ function initScroll(){
         }else{
             $('header').removeClass('black');
         }
+    });
+}
+
+
+function menuClose(){
+
+    $('.btn-menu').on('click',function(){
+        $('#gnb-mobile').addClass('collapsed');
+        $('.dim').addClass('open');
+        $('body').addClass('no-scroll');
+    });
+
+    $('.btn-close').on('click',function(e){
+        e.preventDefault();
+        $('#gnb-mobile').removeClass('collapsed');
+        $('.dim').removeClass('open');
+        $('body').removeClass('no-scroll');
     });
 }

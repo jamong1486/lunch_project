@@ -6,22 +6,34 @@
             <div class="row">
                 <div class="logo-wrap">
                     <h1 class="logo">
-                        <a href="#"><img src="{{  asset('bundles/app/assets/img/lunch-logo.png') }}" alt=""></a>
+                        <a href="#"><img src="{{  asset('bundles/app/assets/img/logo_w.svg') }}" alt=""></a>
                     </h1>
                 </div>
-                <ul class="gnb">
+                <ul class="gnb hidden-mobile">
                     <li><a href="">점심맛집</a></li>
                     <li><a href="">서울베스트</a></li>
                     <li><a href="">룰렛</a></li>
                 </ul>
+                <a class="hidden-desktop btn-menu" href="#gnb-mobile" data-toggle="collapse" aria-controls="gnb-mobile">
+                    <i class="icon-menu"></i>
+                </a>
             </div>
         </div>
     </header>
 
+    <aside id="gnb-mobile" class="hidden-desktop collapse">
+        <a href="" class="btn-close"><i class="icon-x"></i></a>
+        <ul class="menu">
+            <li><a href="#">점심맛집</a></li>
+            <li><a href="#">서울베스트</a></li>
+            <li><a href="#">룰렛</a></li>
+        </ul>
+    </aside>
+
     <section class="main-content-wrap">
         <div class="main-tit">
             <h2>
-                회사주변 식당 도장깨기! 직접 먹어본 후기
+                회사주변 식당 도장깨기!<br class="hidden-desktop">직접 먹어본 후기
             </h2>
             <p>매일 뭐 먹지 고민 안하고싶어서 만든 사이트</p>
         </div>
@@ -46,7 +58,7 @@
                     <h4>회사 근처 식당</h4>
                 </div>
 
-                <div id="carouselFood" class="carousel slide" data-ride="carousel">
+                <div id="carouselFood" class="carousel slide hidden-mobile" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselFood" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselFood" data-slide-to="1"></li>
@@ -187,6 +199,86 @@
                     </a>
                 </div>
 
+                {#mobile version#}
+                <div class="food-wrap hidden-desktop">
+                    <div class="food-inner">
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food15.jpg')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food7_4.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food20.jpg')  }}" alt="">
+                        </div>
+                    </div>
+
+                    <div class="food-inner">
+                        <div class="food-box">
+                            <a href="">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food5_2.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food11_2.GIF')  }}" alt="" class="moving">
+                        </div>
+                        <div class="food-box">
+                            <a href="">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food6_1.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/food16.JPG')  }}" alt="">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -197,72 +289,109 @@
                 <div class="tit">
                     <h4>서울 맛집</h4>
                 </div>
-                <div class="food-inner">
-                    <div class="food-box">
-                        <a href="#">
-                            <div class="txt-box">
-                                <h3>이주의 EAT딜 베스트</h3>
-                                <p>놓칠수 없는 이주의 EAT 딜!</p>
-                            </div>
-                        </a>
-                        <img src="{{asset('bundles/app/assets/img/food/seoul_food1_2.JPG')  }}" alt="">
+                <div class="food-wrap hidden-mobile">
+                    <div class="food-inner">
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food1_2.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food2.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food8.JPG')  }}" alt="">
+                        </div>
                     </div>
-                    <div class="food-box">
-                        <a href="#">
-                            <div class="txt-box">
-                                <h3>이주의 EAT딜 베스트</h3>
-                                <p>놓칠수 없는 이주의 EAT 딜!</p>
-                            </div>
-                        </a>
-                        <img src="{{asset('bundles/app/assets/img/food/seoul_food2.JPG')  }}" alt="">
-                    </div>
-                    <div class="food-box">
-                        <a href="#">
-                            <div class="txt-box">
-                                <h3>이주의 EAT딜 베스트</h3>
-                                <p>놓칠수 없는 이주의 EAT 딜!</p>
-                            </div>
-                        </a>
-                        <img src="{{asset('bundles/app/assets/img/food/seoul_food8.JPG')  }}" alt="">
+                    <div class="food-inner">
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food3.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food4.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food7.JPG')  }}" alt="">
+                        </div>
                     </div>
                 </div>
-                <div class="food-inner">
-                    <div class="food-box">
-                        <a href="#">
-                            <div class="txt-box">
-                                <h3>이주의 EAT딜 베스트</h3>
-                                <p>놓칠수 없는 이주의 EAT 딜!</p>
-                            </div>
-                        </a>
-                        <img src="{{asset('bundles/app/assets/img/food/seoul_food3.JPG')  }}" alt="">
-                    </div>
-                    <div class="food-box">
-                        <a href="#">
-                            <div class="txt-box">
-                                <h3>이주의 EAT딜 베스트</h3>
-                                <p>놓칠수 없는 이주의 EAT 딜!</p>
-                            </div>
-                        </a>
-                        <img src="{{asset('bundles/app/assets/img/food/seoul_food4.JPG')  }}" alt="">
-                    </div>
-                    <div class="food-box">
-                        <a href="#">
-                            <div class="txt-box">
-                                <h3>이주의 EAT딜 베스트</h3>
-                                <p>놓칠수 없는 이주의 EAT 딜!</p>
-                            </div>
-                        </a>
-                        <img src="{{asset('bundles/app/assets/img/food/seoul_food7.JPG')  }}" alt="">
+                <div class="food-wrap hidden-desktop">
+                    <div class="food-inner">
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food1_2.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food2.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food8.JPG')  }}" alt="">
+                        </div>
+                        <div class="food-box">
+                            <a href="#">
+                                <div class="txt-box">
+                                    <h3>이주의 EAT딜 베스트</h3>
+                                    <p>놓칠수 없는 이주의 EAT 딜!</p>
+                                </div>
+                            </a>
+                            <img src="{{asset('bundles/app/assets/img/food/seoul_food3.JPG')  }}" alt="">
+                        </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
-
-
-
-
 
     <footer id="footer-wrap">
         <div class="container">
@@ -275,6 +404,9 @@
             </ul>
         </div>
     </footer>
+
+    <div class="dim"></div>
+
 {% endblock %}
 
 {% block stylesheets %}
