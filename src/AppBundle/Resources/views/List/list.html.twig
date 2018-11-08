@@ -1,0 +1,155 @@
+{% extends '@App/base.html.twig' %}
+
+{% block body %}
+    <header id="header-wrap" class="sub">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="logo-wrap">
+                    <h1 class="logo">
+                        <a href="#"><img src="{{  asset('bundles/app/assets/img/logo.svg') }}" alt=""></a>
+                    </h1>
+                </div>
+
+                <div class="search-box">
+                    <fieldset>
+                        <legend>전체 검색</legend>
+                        <label for="" class="search-input">
+                            <i class="icon-search"></i> <input type="text" placeholder="주변식당,맛집검색">
+                        </label>
+                        <input type="submit" value="검색" class="search-btn">
+                    </fieldset>
+                </div>
+
+                <ul class="gnb hidden-mobile">
+                    <li><a href="">점심맛집</a></li>
+                    <li><a href="">서울베스트</a></li>
+                    <li><a href="">룰렛</a></li>
+                </ul>
+                <a class="hidden-desktop btn-menu" href="#gnb-mobile" data-toggle="collapse" aria-controls="gnb-mobile">
+                    <i class="icon-menu"></i>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <aside id="gnb-mobile" class="hidden-desktop collapse">
+        <a href="" class="btn-close"><i class="icon-x"></i></a>
+        <ul class="menu">
+            <li><a href="#">점심맛집</a></li>
+            <li><a href="#">서울베스트</a></li>
+            <li><a href="#">룰렛</a></li>
+        </ul>
+    </aside>
+
+    {#title#}
+    <section class="sub-content-tit">
+        <div class="container-fluid">
+            <div class="main-tit">
+                <span>2018-10-30</span>
+                <h2>
+                    회사근처 밥집
+                </h2>
+                <p>“전 세계 어딜가나 집밥이 최고!”</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="sub-content-list">
+        <div class="container">
+            <div class="list-wrap">
+                <ul class="list-inner">
+                    <li class="restaurant-item">
+                        <div class="restaurant-img">
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="restaurant-info">
+                            <h3><a href="#">옛멋식당</a> <span class="score">3.0</span></h3>
+                            <span class="address"><i class="icon-map-pin"></i>서울 강남구 논현로85길 5-6</span>
+                            <p class="intro-txt">
+                                옛멋식당은 맛과 멋이 공존하는 공간입니다.
+                                최고 쉐프들의 손맛과 정성이 가득한 음식들을 선보이고 있으니 많이 찾아주세요~~
+                                편안하고 아늑한 분위기에서 옛멋을 ... <a href="#" class="btn-more">더보기<i class="icon-plus1"></i></a>
+                            </p>
+                        </div>
+                    </li>
+                    <li class="restaurant-item">
+                        <div class="restaurant-img">
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="restaurant-info">
+                            <h3><a href="#">옛멋식당</a> <span class="score">3.0</span></h3>
+                            <span class="address"><i class="icon-map-pin"></i>서울 강남구 논현로85길 5-6</span>
+                            <p class="intro-txt">
+                                옛멋식당은 맛과 멋이 공존하는 공간입니다.
+                                최고 쉐프들의 손맛과 정성이 가득한 음식들을 선보이고 있으니 많이 찾아주세요~~
+                                편안하고 아늑한 분위기에서 옛멋을 ... <a href="#" class="btn-more">더보기<i class="icon-plus1"></i></a>
+                            </p>
+                        </div>
+                    </li>
+                    <li class="restaurant-item">
+                        <div class="restaurant-img">
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="restaurant-info">
+                            <h3><a href="#">옛멋식당</a> <span class="score">3.0</span></h3>
+                            <span class="address"><i class="icon-map-pin"></i>서울 강남구 논현로85길 5-6</span>
+                            <p class="intro-txt">
+                                옛멋식당은 맛과 멋이 공존하는 공간입니다.
+                                최고 쉐프들의 손맛과 정성이 가득한 음식들을 선보이고 있으니 많이 찾아주세요~~
+                                편안하고 아늑한 분위기에서 옛멋을 ... <a href="#" class="btn-more">더보기<i class="icon-plus1"></i></a>
+                            </p>
+                        </div>
+                    </li>
+                    <li class="restaurant-item">
+                        <div class="restaurant-img">
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="restaurant-info">
+                            <h3><a href="#">옛멋식당</a> <span class="score">3.0</span></h3>
+                            <span class="address"><i class="icon-map-pin"></i>서울 강남구 논현로85길 5-6</span>
+                            <p class="intro-txt">
+                                옛멋식당은 맛과 멋이 공존하는 공간입니다.
+                                최고 쉐프들의 손맛과 정성이 가득한 음식들을 선보이고 있으니 많이 찾아주세요~~
+                                편안하고 아늑한 분위기에서 옛멋을 ... <a href="#" class="btn-more">더보기<i class="icon-plus1"></i></a>
+                            </p>
+                        </div>
+                    </li>
+                    <li class="restaurant-item">
+                        <div class="restaurant-img">
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="restaurant-info">
+                            <h3><a href="#">옛멋식당</a> <span class="score">3.0</span></h3>
+                            <span class="address"><i class="icon-map-pin"></i>서울 강남구 논현로85길 5-6</span>
+                            <p class="intro-txt">
+                                옛멋식당은 맛과 멋이 공존하는 공간입니다.
+                                최고 쉐프들의 손맛과 정성이 가득한 음식들을 선보이고 있으니 많이 찾아주세요~~
+                                편안하고 아늑한 분위기에서 옛멋을 ... <a href="#" class="btn-more">더보기<i class="icon-plus1"></i></a>
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </section>
+
+    <footer id="footer-wrap">
+        <div class="container">
+            <div class="footer-logo">
+                <img src="{{asset('bundles/app/assets/img/adenasoft_w.svg')  }}" alt="">
+            </div>
+            <ul class="footer-info">
+                <li>Copyright <b>AdenaSoft</b> corp. all rights reserved.</li>
+                <li><address>서울 강남구 테헤란로 207 14층</address></li>
+            </ul>
+        </div>
+    </footer>
+
+    <div class="dim"></div>
+
+{% endblock %}
+
+{% block stylesheets %}
+
+{% endblock %}

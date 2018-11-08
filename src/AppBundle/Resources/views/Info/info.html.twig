@@ -1,0 +1,169 @@
+{% extends '@App/base.html.twig' %}
+
+{% block body %}
+    <header id="header-wrap" class="sub">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="logo-wrap">
+                    <h1 class="logo">
+                        <a href="#"><img src="{{  asset('bundles/app/assets/img/logo.svg') }}" alt=""></a>
+                    </h1>
+                </div>
+
+                <div class="search-box">
+                    <fieldset>
+                        <legend>전체 검색</legend>
+                        <label for="" class="search-input">
+                            <i class="icon-search"></i> <input type="text" placeholder="주변식당,맛집검색">
+                        </label>
+                        <input type="submit" value="검색" class="search-btn">
+                    </fieldset>
+                </div>
+
+                <ul class="gnb hidden-mobile">
+                    <li><a href="">점심맛집</a></li>
+                    <li><a href="">서울베스트</a></li>
+                    <li><a href="">룰렛</a></li>
+                </ul>
+                <a class="hidden-desktop btn-menu" href="#gnb-mobile" data-toggle="collapse" aria-controls="gnb-mobile">
+                    <i class="icon-menu"></i>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <aside id="gnb-mobile" class="hidden-desktop collapse">
+        <a href="" class="btn-close"><i class="icon-x"></i></a>
+        <ul class="menu">
+            <li><a href="#">점심맛집</a></li>
+            <li><a href="#">서울베스트</a></li>
+            <li><a href="#">룰렛</a></li>
+        </ul>
+    </aside>
+
+    <section class="sub-content-list">
+        <div class="container">
+            <div class="restaurant-info-wrap">
+                <div class="restaurant-info">
+                    <div class="restaurant-tit">
+                        <h2>옛멋식당 <span>4.0</span></h2>
+                        <p class="address"><i class="icon-map-pin"></i>서울 강남구 논현로85길 5-6</p>
+                    </div>
+                    <div class="like-box">
+                        <a href="#" class="btn-like active"><i class="icon-heart1"></i></a><span class="like-count">73</span>
+                    </div>
+                    <div class="hash-tag">
+                        <span>#한식</span>
+                        <span>#덮밥</span>
+                        <span>#식당</span>
+                        <span>#뉴장조림</span>
+                    </div>
+                    <div class="info-box">
+                        <ul class="info-list">
+                            <li>
+                                <dl>
+                                    <dt>전화번호</dt>
+                                    <dd>02-1234-1263</dd>
+                                </dl>
+                            </li>
+                            <li>
+                                <dl>
+                                    <dt>음식 종류</dt>
+                                    <dd>한식</dd>
+                                </dl>
+                            </li>
+                            <li>
+                                <dl>
+                                    <dt>가격대</dt>
+                                    <dd>만원미만</dd>
+                                </dl>
+                            </li>
+                            <li>
+                                <dl>
+                                    <dt>메뉴</dt>
+                                    <dd class="menu">
+                                        <ul>
+                                            <li>장조림 덮밥</li>
+                                            <li>소고기 무국</li>
+                                            <li>제육 덮밥</li>
+                                            <li>불고기 덮밥</li>
+                                            <li>수제 돈까스</li>
+                                            <li>
+                                                <img src="" alt="">
+                                            </li>
+                                        </ul>
+                                    </dd>
+                                </dl>
+                            </li>
+                        </ul>
+                        <div class="restaurant-map" id="testMap">
+                            test
+                        </div>
+                    </div>
+                </div>
+
+                <div class="restaurant-review">
+                    <h3>식당 리뷰</h3>
+                    <div class="review-box">
+                        <p>블라블라블라블라블라라라라라라라라라라</p>
+                        <div class="review-photo">
+                            <img src="{{asset('bundles/app/assets/img/food/food7.JPG')  }}" alt="">
+                        </div>
+                        <div class="review-photo">
+                            <img src="{{asset('bundles/app/assets/img/food/food7_2.JPG')  }}" alt="">
+                        </div>
+                        <div class="review-photo">
+                            <img src="{{asset('bundles/app/assets/img/food/food7_3.JPG')  }}" alt="">
+                        </div>
+                        <div class="review-photo">
+                            <img src="{{asset('bundles/app/assets/img/food/food7_4.JPG')  }}" alt="">
+                        </div>
+                    </div>
+                    <div class="comment-list">
+                        <h4>댓글리뷰</h4>
+                        <div id="disqus_thread"></div>
+                        <script>
+
+                            /**
+                             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                            /*
+                            var disqus_config = function () {
+                            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                            };
+                            */
+                            (function() { // DON'T EDIT BELOW THIS LINE
+                                var d = document, s = d.createElement('script');
+                                s.src = 'https://lunch-adena-1.disqus.com/embed.js';
+                                s.setAttribute('data-timestamp', +new Date());
+                                (d.head || d.body).appendChild(s);
+                            })();
+                        </script>
+                        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="footer-wrap">
+        <div class="container">
+            <div class="footer-logo">
+                <img src="{{asset('bundles/app/assets/img/adenasoft_w.svg')  }}" alt="">
+            </div>
+            <ul class="footer-info">
+                <li>Copyright <b>AdenaSoft</b> corp. all rights reserved.</li>
+                <li><address>서울 강남구 테헤란로 207 14층</address></li>
+            </ul>
+        </div>
+    </footer>
+
+    <div class="dim"></div>
+
+{% endblock %}
+
+{% block stylesheets %}
+
+{% endblock %}

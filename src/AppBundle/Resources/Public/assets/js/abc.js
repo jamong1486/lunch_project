@@ -3,6 +3,7 @@ $(window).ready(function() {
     initScroll();
 
     menuClose();
+    naverMap();
 });
 
 // header 스크롤 내렸을때 색상 블랙
@@ -33,4 +34,9 @@ function menuClose(){
         $('.dim').removeClass('open');
         $('body').removeClass('no-scroll');
     });
+}
+
+function naverMap(){
+
+    var mapDiv = document.getElementById('testMap');
 }

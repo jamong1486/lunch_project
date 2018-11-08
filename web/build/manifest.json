@@ -1,5 +1,6 @@
 {
   "build/vendor.js": "/build/vendor.js",
+  "build/common.css": "/build/common.css",
   "build/app.js": "/build/app.js",
   "build/manifest.js": "/build/manifest.js"
 }
